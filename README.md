@@ -8,4 +8,4 @@ between international teams.
 communication, audiovisual production) so that the workload may be fairly shared. And every team is composed of students 
 from at least 3 different countries
 
-Detail in PDF: [https://github.com/phuonghoa-hndh/tastytales/blob/main/Requirements_IOBC_2023.pdf|Requirements]
+Detail in PDF
